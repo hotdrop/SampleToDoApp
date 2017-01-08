@@ -1,2 +1,2 @@
 ## TODO app
-study repository.
+study react and redux.
